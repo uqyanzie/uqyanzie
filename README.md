@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @uqyanzie
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Basic Python Programming Languange
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineering
+- 📫 How to reach me uqyanzie@gmail.com
 
 <!---
 uqyanzie/uqyanzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
